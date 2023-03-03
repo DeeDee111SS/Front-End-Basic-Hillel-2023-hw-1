@@ -1,5 +1,5 @@
-let name1 = prompt('What`s your name?', '');
-alert(`Hello, #${name1}! How are you?`);
+const name1 = prompt('What`s your name?', '');
+alert(`Hello, ${name1}! How are you?`);
 
 // if 'name' ->  const name: void
 // @deprecated
